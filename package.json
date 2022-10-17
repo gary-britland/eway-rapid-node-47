@@ -1,15 +1,15 @@
 {
-  "name": "eway-rapid",
-  "version": "1.2.1",
-  "description": "eWAY Rapid Node.js library",
+  "name": "eway-rapid-47",
+  "version": "1.2.2",
+  "description": "eWAY Rapid Node.js library - API Version 47",
   "keywords": [
     "eway",
     "rapid",
     "payments",
     "credit cards"
   ],
-  "author": "eWAY (https://www.eway.com.au)",
-  "homepage": "http://github.com/eWAYPayment/eway-rapid-node",
+  "author": "Gary Britland (https://github.com/gary-britland)",
+  "homepage": "https://github.com/gary-britland/eway-rapid-node-47",
   "license": "MIT",
   "main": "lib/Rapid.js",
   "scripts": {
@@ -24,9 +24,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/eWAYPayment/eway-rapid-node"
+    "url": "https://github.com/gary-britland/eway-rapid-node-47"
   },
-  "bugs": "https://github.com/eWAYPayment/eway-rapid-node/issues",
+  "bugs": "https://github.com/gary-britland/eway-rapid-node-47/issues",
   "engines": {
     "node": ">= v0.10.0"
   },
