@@ -1,6 +1,6 @@
 {
-  "name": "eway-rapid-47",
-  "version": "1.2.2",
+  "name": "@gary-britland/eway-rapid-47",
+  "version": "1.2.3",
   "description": "eWAY Rapid Node.js library - API Version 47",
   "keywords": [
     "eway",
@@ -24,9 +24,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gary-britland/eway-rapid-node-47"
+    "url": "git+https://github.com/gary-britland/eway-rapid-node-47.git"
   },
-  "bugs": "https://github.com/gary-britland/eway-rapid-node-47/issues",
+  "bugs": {
+    "url": "https://github.com/gary-britland/eway-rapid-node-47/issues"
+  },
   "engines": {
     "node": ">= v0.10.0"
   },
@@ -47,5 +49,9 @@
     "rewire": "^2.3.4",
     "rimraf": "^2.4.2",
     "sinon": "^1.15.4"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
   }
 }
